@@ -24,6 +24,13 @@
       "machine_id": "DWDWD",
       "status": "ACTIVE",
       "expiry": "2027-12-31"
+    },
+    {
+      "license_key": "dwcd",
+      "customer": "1ss",
+      "machine_id": "demo",
+      "status": "ACTIVE",
+      "expiry": "2027-12-31"
     }
   ]
 }
