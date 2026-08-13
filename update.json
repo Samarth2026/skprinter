@@ -1,6 +1,19 @@
 {
-    "latest_version": "2.1",
-    "download_url": "",
-    "message": "No new update available",
-    "mandatory": false
+    "licenses": [
+        {
+            "license_key": "SSK-SADGURUKRUPA-007",
+            "apps": {
+                "PrintTechX": {
+                    "latest_version": "2.1",
+                    "download_url": "https://github.com/Samarth2026/skprinter/releases/download/v2.1/PrintTechX.exe",
+                    "message": "New PrintTechX version is available."
+                },
+                "TECH_AUTOMATION": {
+                    "latest_version": "3.0",
+                    "download_url": "https://github.com/Samarth2026/skprinter/releases/download/v3.0/TECH_AUTOMATION.exe",
+                    "message": "New TECH AUTOMATION version is available."
+                }
+            }
+        }
+    ]
 }
