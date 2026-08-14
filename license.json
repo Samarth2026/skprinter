@@ -17,6 +17,13 @@
       "machine_id": "9927b4f39c5235bdac76a44be001eb1abd61f3c2c633e9d3bd9ced0f54648831",
       "status": "ACTIVE",
       "expiry": "2027-12-31"
+    },
+    {
+      "license_key": "SSK-SADGURUKRUPA-007",
+      "customer": "ANKAI 1",
+      "machine_id": "eef1e341437b9b7ce37098ae4025102bb53df4b7bf9adc9c6694a9c8e71bae9e",
+      "status": "ACTIVE",
+      "expiry": "2027-12-31"
     }
   ]
 }
