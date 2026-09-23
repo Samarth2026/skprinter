@@ -101,6 +101,13 @@
       "machine_id": "2a6bd6774f3c0c01fa5802b38d5a93c91113e6547f48acd8eb109de99107abfa",
       "status": "ACTIVE",
       "expiry": "2027-12-31"
+    },
+    {
+      "license_key": "SSK-SADGURUKRUPA-007",
+      "customer": "U 10",
+      "machine_id": "bf8c1fb190391763d595e6975d789995fb37b6ebf050294b5dd82de88cc97879",
+      "status": "ACTIVE",
+      "expiry": "2027-12-31"
     }
   ]
 }
